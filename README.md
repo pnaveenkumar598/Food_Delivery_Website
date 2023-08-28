@@ -1,5 +1,5 @@
 # Food-Delivery-Website
-[Please view the website here](https://pnaveenkumar598.github.io/Food-Delivery-Website/)
+[Please view the website here](https://pnaveenkumar598.github.io/Food_Delivery_Website/)
 
 Welcome to our Food Delivery Website repository. This project showcases a website dedicated to ordering delicious food online.
 ## Description
